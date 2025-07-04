@@ -5,8 +5,7 @@
 This is a fully functional, beautiful **Admin Dashboard Table** built with **React**, **Tailwind CSS**, and **Recharts**. It includes advanced features like sorting, filtering, pagination, dark mode, and CSV export — ideal for modern web applications or internal dashboards.
 
 ---
-# Live Demo# 
-https://admindashboardlevich.netlify.app/
+# Live Demo  :    https://admindashboardlevich.netlify.app/
 ## 📦 Setup Instructions (From a Clean System)
 
 ### 🧰 If you don't have anything installed:
